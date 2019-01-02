@@ -1,2 +1,0 @@
-# projects
-proyectos y pruebas
